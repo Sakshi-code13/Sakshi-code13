@@ -1,7 +1,7 @@
 # Your Name
 
 ## Introduction
-Hello! 👋 I'm [Your Name], a passionate [Your Profession] based in [Your Location]. I enjoy [Your Interests/Hobbies] and have a keen interest in [Your Technical/Professional Focus].
+Hello! 👋 I'm Sakshi, a passionate software engineer based in Chandigarh. I enjoy [Your Interests/Hobbies] and have a keen interest in [Your Technical/Professional Focus].
 
 ## Skills
 - Programming Languages: [List of Languages]
