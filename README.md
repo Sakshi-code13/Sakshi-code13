@@ -33,10 +33,7 @@ Brief description of your role and responsibilities.
 - Twitter: [Your Twitter Handle]
 - Email: [Your Email Address]
 
-## Blog
-[Link to your blog or portfolio if applicable]
+## Resume
 
-## Fun Facts
-- [Any interesting facts about yourself]
 
 Feel free to explore my repositories and connect with me! 😊
