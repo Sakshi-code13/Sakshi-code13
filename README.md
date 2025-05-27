@@ -55,6 +55,13 @@
 
 ---
 
+### 🌐 Portfolio
+
+<p align="center">
+  <a href="https://sakshi-code13.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/View%20Portfolio-%2300ffe1.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a>
+</p>
+
+---
 
 ### 📫 Connect With Me
 
